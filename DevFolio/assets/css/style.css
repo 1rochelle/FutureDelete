@@ -92,7 +92,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: rgba(0, 119, 255, 0.3);
 }
 
 .overlay-mf {
@@ -720,7 +720,7 @@ a:hover {
 }
 .hero-single .breadcrumb {
   background-color: transparent;
-  color: #0078ff;
+  
 }
 .hero-single .breadcrumb .breadcrumb-item:before {
   color: #cde1f8;
@@ -848,8 +848,11 @@ a:hover {
 }
 
 .work-img {
+  width: 416px;
+  height: 300px;
   display: block;
   overflow: hidden;
+  
 }
 .work-img img {
   transition: all 1s;
