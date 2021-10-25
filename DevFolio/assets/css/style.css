@@ -92,7 +92,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: rgba(0, 119, 255, 0.3);
+  background-color: rgba(0, 119, 255, 0.6);
 }
 
 .overlay-mf {
@@ -718,6 +718,7 @@ a:hover {
     font-size: 3.5rem;
   }
 }
+
 .hero-single .breadcrumb {
   background-color: transparent;
   
